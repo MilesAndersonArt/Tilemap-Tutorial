@@ -4,7 +4,7 @@ let config = {
         pixelArt: true
     },
     width: 320,
-    height: 640,
+    height: 240,
     physics: {
         default: 'arcade',
         arcade: {
